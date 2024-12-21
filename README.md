@@ -7,6 +7,7 @@
 **DOMAIN:** JAVA PROGRAMMING
 
 **DURATION:** DECEMBER TO JANUARY 2025
+**MENTOR:** 
 
 
 **OVERVIEW OF THE PROJECT**
@@ -82,7 +83,9 @@ Add logging features to store calculation history.
 
 This program is an excellent starting point for beginners learning Java and helps demonstrate key programming concepts like input/output, conditional statements, and switch-case structures.
 
+![Screenshot (11)](https://github.com/user-attachments/assets/26a33cc2-d206-4c84-b6d5-ef45200844d2)
 
+![Screenshot (12)](https://github.com/user-attachments/assets/225b1734-06d1-4d6f-8380-97b9a739f1bf)
 
 
 
