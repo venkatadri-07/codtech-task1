@@ -7,6 +7,7 @@
 **DOMAIN:** JAVA PROGRAMMING
 
 **DURATION:** DECEMBER 17 2024 TO JANUARY 17 2025
+
 **MENTOR:** 
 
 
@@ -22,10 +23,14 @@ The program prompts the user to enter two numbers.
 It asks the user to select an operation from a menu of four options:
 
 Addition (+)
+
 Subtraction (-)
+
 Multiplication (*)
+
 Division (/)
-Operations:
+
+**Operations:**
 
 Depending on the user's choice, the program performs the corresponding operation:
 
